@@ -26,6 +26,7 @@ bundle install
 Após a instalação das dependências e configuração do ambiente, vamos executar os testes. 
 ```
 rake test[brand_environment, exec_device, exec_mode, graphic_mode, tags]
+
 rake test[hlg,desktop,local,graphic,@desafio]
 ```
 brand_environment - hlg
