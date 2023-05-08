@@ -2,12 +2,12 @@
 
   @desafio
   Funcionalidade: Header Logado
-  Como usuario logado nas bandeiras da Via Varejo
-  Desejo visualizar o header
-  Para validar todo o conteudo e links de acordo com sua bandeira
+  Como usuario acessando a Casas Bahia
+  Desejo visualizar um produto
+  Para validar todo o conteudo no carrinho
     
 
-    Cenário: Validar texto da seção e se link dentro de logotipo possui dominio da bandeira
+    Cenário: Validar fluxo de compra do cliente
 
         Dado que estou logado na pagina inicial Casas Bahia
         Quando efetuo a escolha do produto <produto>
